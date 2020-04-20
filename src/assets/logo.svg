@@ -1,0 +1,37 @@
+<svg width="50px" height="39px" viewBox="0 0 50 39" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient spreadMethod="pad" y2="0" x2="1" y1="0" x1="0" id="svg_10">
+   <stop offset="0.523438" stop-color="#096789"/>
+   <stop offset="1" stop-color="#f69876"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_19">
+   <stop offset="0" stop-color="#b77c45"/>
+   <stop offset="0.460938" stop-color="#4883ba"/>
+   <stop offset="0.746094" stop-color="#4883ba"/>
+   <stop offset="0.753906" stop-color="#4883ba"/>
+   <stop offset="1" stop-color="#4883ba"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" opacity="0.81" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_4" y="171.269278" x="235.672887" stroke-width="2" stroke="#000" fill="#ce7a2b">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_5" y="172.494415" x="239.346471" stroke-width="0" stroke="#000" fill="#bf5f00">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_6" y="171.269274" x="237.968877" stroke-width="0" stroke="#000" fill="url(#svg_10)">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_11" y="172.086034" x="237.968877" stroke-width="0" stroke="#000" fill="url(#svg_10)">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_12" y="172.494414" x="237.968877" stroke-width="0" stroke="#000" fill="url(#svg_10)">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_13" y="172.086034" x="237.968877" stroke-width="0" stroke="#000" fill="url(#svg_10)">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_14" y="171.677654" x="237.968877" stroke-width="0" stroke="#000" fill="url(#svg_10)">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_15" y="171.269274" x="237.968877" stroke-width="0" stroke="#000" fill="url(#svg_10)">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_16" y="170.860894" x="237.968877" stroke-width="0" stroke="#000" fill="url(#svg_10)">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_17" y="171.677655" x="239.346471" stroke-width="0" stroke="#000" fill="#bf5f00">Trax</text>
+  <text transform="matrix(2.17771, 0, 0, 2.4487, -299.473, -241.062)" opacity="0" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_18" y="172.086035" x="239.346471" stroke-width="0" stroke="#000" fill="url(#svg_19)">Trax</text>
+ </g>
+</svg>
